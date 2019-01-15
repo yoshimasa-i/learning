@@ -9,9 +9,3 @@
 .
 ├── README.md
 └── google_capture.py
-
-0 directories, 2 files
-
-
-
-
