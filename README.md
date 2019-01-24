@@ -6,6 +6,5 @@
 
 ## Directory Structure
 
-.
 ├── README.md
 └── google_capture.py
