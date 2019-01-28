@@ -5,7 +5,6 @@
 - サンプルのソースコードを配置
 
 ## Directory Structure
-
 .
 ├── README.md
-└── google_capture.py
+└── googlecapture.py
