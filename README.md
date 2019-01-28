@@ -4,7 +4,3 @@
 - スクレイピング・データ整形・解析までを習得する
 - サンプルのソースコードを配置
 
-## Directory Structure
-.
-├── README.md
-└── googlecapture.py
